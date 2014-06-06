@@ -1,7 +1,7 @@
 {
     "name": "todo",
     "private": true,
-    "version": "0.0.0",
+    "version": "0.0.0-1",
     "description": "a Sails application",
     "dependencies": {
         "sails": "0.9.9",
@@ -17,5 +17,9 @@
     "main": "app.js",
     "repository": "",
     "author": "",
-    "license": ""
+    "license": "",
+    "subdomain": "todo_list",
+    "engines": {
+        "node": "1"
+    }
 }

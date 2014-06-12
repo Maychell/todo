@@ -1,7 +1,7 @@
 {
     "name": "todo",
     "private": true,
-    "version": "0.0.0-1",
+    "version": "0.0.0-2",
     "description": "a Sails application",
     "dependencies": {
         "sails": "0.9.9",
@@ -20,6 +20,6 @@
     "license": "",
     "subdomain": "todo_list",
     "engines": {
-        "node": "1"
+        "node": "0.8.x"
     }
 }
